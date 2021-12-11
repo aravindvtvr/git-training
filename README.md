@@ -1,3 +1,3 @@
 # git-training
 
-This Project os for leaning GITHUB
+This Project is for leaning GITHUB
